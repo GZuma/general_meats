@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">cuts_id</Data></Cell>
+			<Cell><Data ss:Type="String">cut_name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">500</Data></Cell>
+			<Cell><Data ss:Type="String">Boneless Short Rib</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">501</Data></Cell>
+			<Cell><Data ss:Type="String">BoneIn Short Rib</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">502</Data></Cell>
+			<Cell><Data ss:Type="String">Stew Meat</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">503</Data></Cell>
+			<Cell><Data ss:Type="String">Shabu Shabu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">504</Data></Cell>
+			<Cell><Data ss:Type="String">Neck Roll</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">505</Data></Cell>
+			<Cell><Data ss:Type="String">Chuck Eye Prime Roast</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">506</Data></Cell>
+			<Cell><Data ss:Type="String">Chuck Eye Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">507</Data></Cell>
+			<Cell><Data ss:Type="String">Chuck Roll</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">508</Data></Cell>
+			<Cell><Data ss:Type="String">Flat Iron</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">509</Data></Cell>
+			<Cell><Data ss:Type="String">Mock Tender Loin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">510</Data></Cell>
+			<Cell><Data ss:Type="String">Cross Rib Roast</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">511</Data></Cell>
+			<Cell><Data ss:Type="String">Petite Tender</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">512</Data></Cell>
+			<Cell><Data ss:Type="String">Marrow Bones</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">513</Data></Cell>
+			<Cell><Data ss:Type="String">Ribeye Boneless</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">514</Data></Cell>
+			<Cell><Data ss:Type="String">Ribeye BoneIn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">515</Data></Cell>
+			<Cell><Data ss:Type="String">Prime Rib Roast</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">516</Data></Cell>
+			<Cell><Data ss:Type="String">Skirt Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">517</Data></Cell>
+			<Cell><Data ss:Type="String">Flank Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">518</Data></Cell>
+			<Cell><Data ss:Type="String">Bavette</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">519</Data></Cell>
+			<Cell><Data ss:Type="String">Strip Loin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">520</Data></Cell>
+			<Cell><Data ss:Type="String">NY Strip Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">521</Data></Cell>
+			<Cell><Data ss:Type="String">PorterHouse</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">522</Data></Cell>
+			<Cell><Data ss:Type="String">Tenderloin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">523</Data></Cell>
+			<Cell><Data ss:Type="String">Coulette</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">524</Data></Cell>
+			<Cell><Data ss:Type="String">Top Sirloin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">525</Data></Cell>
+			<Cell><Data ss:Type="String">Chateau Brinad</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">526</Data></Cell>
+			<Cell><Data ss:Type="String">Spider Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">527</Data></Cell>
+			<Cell><Data ss:Type="String">Poire</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">528</Data></Cell>
+			<Cell><Data ss:Type="String">London Broil</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">529</Data></Cell>
+			<Cell><Data ss:Type="String">Sirloin Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">530</Data></Cell>
+			<Cell><Data ss:Type="String">Bottom Round</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">531</Data></Cell>
+			<Cell><Data ss:Type="String">Top Round</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">532</Data></Cell>
+			<Cell><Data ss:Type="String">Velvet Steak</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">533</Data></Cell>
+			<Cell><Data ss:Type="String">Ossobucco</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">534</Data></Cell>
+			<Cell><Data ss:Type="String">Leg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">535</Data></Cell>
+			<Cell><Data ss:Type="String">Thigh</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">536</Data></Cell>
+			<Cell><Data ss:Type="String">Breast</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">537</Data></Cell>
+			<Cell><Data ss:Type="String">Whole Bird</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">538</Data></Cell>
+			<Cell><Data ss:Type="String">Half Bird</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">539</Data></Cell>
+			<Cell><Data ss:Type="String">Trotters</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">540</Data></Cell>
+			<Cell><Data ss:Type="String">Ears</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">541</Data></Cell>
+			<Cell><Data ss:Type="String">Whole Pig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">542</Data></Cell>
+			<Cell><Data ss:Type="String">Half Pig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">543</Data></Cell>
+			<Cell><Data ss:Type="String">Whole Leg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">544</Data></Cell>
+			<Cell><Data ss:Type="String">Whole Animal</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
